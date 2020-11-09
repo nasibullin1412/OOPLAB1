@@ -3,5 +3,5 @@
 указать свой путь до файла Python.h (См. Отчёт). В данном проекте главными являются файлами _mystring.pyd и mystring.py. Следовательно, заяйдя в комндной строке в директорию
 MyStringWithPython\MyNormalString и вызва от туда Python можно протестировать обёртку.
 
-2. Второе решени MyStringWithUnitTestAndTier1 содержит 2 проекта. Первый - это сам реализованный класс MyString и класс наследник MyStringTier1. Второй проект - unit тесты. Оба 
-проекта компилируются без ошибок в режиме сборки Debug x86 (я компилировал на Visual Studio 17).
+2. Второе решени MyStringWithUnitTestAndTier1 содержит 2 проекта. Первый - это сам реализованный класс MyString и класс наследник MyStringTier1. Исходные коды находятся в директории MyStringWithUnitTestAndTier1\StringUnitTests
+Второй проект - unit тесты. Оба проекта компилируются без ошибок в режиме сборки Debug x86 (я компилировал на Visual Studio 17).
